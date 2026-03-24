@@ -1,0 +1,10 @@
+{
+  "name": "basileai-site",
+  "version": "0.1.0",
+  "description": "Basile AI — site public + dashboard revenus",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "deploy": "vercel --prod"
+  }
+}
